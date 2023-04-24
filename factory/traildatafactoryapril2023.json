@@ -1,0 +1,9 @@
+{
+	"name": "traildatafactoryapril2023",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7259c723-28e4-45a5-99ea-74e1600ce247",
+		"tenantId": "6361b997-a745-4ad1-8455-c659d6100320"
+	}
+}
